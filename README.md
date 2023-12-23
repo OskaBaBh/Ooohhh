@@ -1,5 +1,5 @@
 <div align="center">
-  👑<b>KING VAJIRA</b>👑</b>
+  👑<b>KING VAJIRA MD</b>👑</b>
 
   
 <div align="center">
@@ -24,15 +24,19 @@
 
 </p>
 
-## when scan first qr. use second long seasson id because first short seasson id is not working..
 
-[![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD-QR-1?v=1) 2 [![Scan QR CODE 2](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD-5?v=1)
+[![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://vajira-qrcode.vercel.app/)
+
+## You can bot make in vercel app below
+
+***Click [Vercel App](https://vajira-two.vercel.app/)***
 
 ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA-MD-fork)***
 
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
- 
+
+    
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/KING-VAJIRA-MD)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/vajirabot1/KING-VAJIRA-Md)
